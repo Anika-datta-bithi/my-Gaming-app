@@ -1,0 +1,22 @@
+{
+  "hero_articles": [
+    {
+      "title": "The Future of Gaming",
+      "excerpt": "Explore the next generation of gaming technology and innovation.",
+      "category": "Gaming",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e"
+    },
+    {
+      "title": "Top 10 PC Games",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420"
+    },
+    {
+      "title": "Best Gaming Setup Ideas",
+      "image": "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8"
+    },
+    {
+      "title": "Esports Championship 2026",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5"
+    }
+  ]
+}
