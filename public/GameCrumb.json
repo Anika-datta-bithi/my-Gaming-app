@@ -1,0 +1,40 @@
+{
+  "crumbs": [
+    {
+      "id": 1,
+      "title": "Xbox Series X/S Was Best-Selling Console in Dollar",
+      "image": "https://images.unsplash.com/photo-1621259182978-f09e5e2ca1ff?q=80&w=800",
+      "category": "Recommended"
+    },
+    {
+      "id": 2,
+      "title": "World of Warcraft and its DLC are Fulfilling",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=800",
+      "category": "Recommended"
+    },
+    {
+      "id": 3,
+      "title": "The New Version of J is Here on Market",
+      "image": "https://images.unsplash.com/photo-1550745127-4bd374c3f58b?q=80&w=800",
+      "category": "Recommended"
+    },
+    {
+      "id": 4,
+      "title": "The 'Classic Mario' Is Here Again",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?q=80&w=800",
+      "category": "Nintendo Switch"
+    },
+    {
+      "id": 5,
+      "title": "Superhero Games Hard To Create",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?q=80&w=800",
+      "category": "Playstation 4"
+    },
+    {
+      "id": 6,
+      "title": "Star Wars The Order Sets Up A New DLC",
+      "image": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?q=80&w=800",
+      "category": "XBOX One"
+    }
+  ]
+}

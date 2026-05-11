@@ -1,0 +1,49 @@
+{
+  "game_cards": [
+    {
+      "id": 1,
+      "category": "XBOX",
+      "title": "Free Play Days - Gonner 2 And Monster Truck",
+      "author": "Rishi",
+      "date": "Apr 26, 2022",
+      "excerpt": "Our cell phones are an undeniably fundamental piece of our daily lives and gaming experiences.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 2,
+      "category": "GAMING NEWS",
+      "title": "Superhero Games Hard To Create",
+      "author": "Rishi",
+      "date": "Apr 26, 2022",
+      "excerpt": "Our cell phones are an undeniably fundamental piece of our daily lives and gaming experiences.",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 3,
+      "category": "PS4",
+      "title": "COD Battle Royale Events",
+      "author": "Rishi",
+      "date": "Apr 26, 2022",
+      "excerpt": "Our cell phones are an undeniably fundamental piece of our daily lives and gaming experiences.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 4,
+      "category": "PS4",
+      "title": "World of Warcraft and its DLC are Fulfilling",
+      "author": "Rishi",
+      "date": "Apr 26, 2022",
+      "excerpt": "The expansion brings new depth to the world of Azeroth with immersive storytelling.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800"
+    },
+    {
+      "id": 3,
+      "category": "XBOX",
+      "title": "Xbox Series X/S was Best-Selling Console",
+      "author": "Rishi",
+      "date": "Apr 26, 2022",
+      "excerpt": "Microsoft sees record-breaking numbers in dollar sales for the latest hardware generation.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&q=80&w=800"
+    }
+  ]
+}
